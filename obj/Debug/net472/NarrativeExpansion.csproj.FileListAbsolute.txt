@@ -7,3 +7,4 @@ C:\Users\crawf\TechtonicaMods\NewMods\NarrativeExpansion\bin\Debug\net472\Narrat
 C:\Users\crawf\TechtonicaMods\NewMods\NarrativeExpansion\bin\Debug\net472\NarrativeExpansion.pdb
 C:\Users\crawf\TechtonicaMods\NewMods\NarrativeExpansion\obj\Debug\net472\NarrativeExpansion.dll
 C:\Users\crawf\TechtonicaMods\NewMods\NarrativeExpansion\obj\Debug\net472\NarrativeExpansion.pdb
+C:\Users\crawf\TechtonicaMods\NewMods\NarrativeExpansion\obj\Debug\net472\NarrativeExpansion.sourcelink.json

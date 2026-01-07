@@ -7,3 +7,4 @@ C:\Users\crawf\TechtonicaMods\NewMods\NarrativeExpansion\obj\Release\net472\Narr
 C:\Users\crawf\TechtonicaMods\NewMods\NarrativeExpansion\obj\Release\net472\NarrativeExpansion.csproj.CoreCompileInputs.cache
 C:\Users\crawf\TechtonicaMods\NewMods\NarrativeExpansion\obj\Release\net472\NarrativeExpansion.dll
 C:\Users\crawf\TechtonicaMods\NewMods\NarrativeExpansion\obj\Release\net472\NarrativeExpansion.pdb
+C:\Users\crawf\TechtonicaMods\NewMods\NarrativeExpansion\obj\Release\net472\NarrativeExpansion.sourcelink.json
