@@ -7,8 +7,8 @@ repository = "https://thunderstore.io"
 [package]
 namespace = "CertiFried"
 name = "NarrativeExpansion"
-versionNumber = "2.1.0"
-description = "MAJOR UPDATE: Interactive NPCs! Adds The Wanderer, Old Engineer, Archivist, Scout, and Oracle NPCs with unique dialogue and behaviors. Plus extended dialogue, lore, and mysteries."
+versionNumber = "2.7.0"
+description = "NPCs with AUTHENTIC game character voices! New Sparks Terminal, Paladin Echo, Mirage Hologram, Groundbreaker Monument play real voiced dialogue. Plus 5 custom NPCs with procedural robot voices. Extended dialogue, lore, mysteries."
 websiteUrl = "https://github.com/xXDeath420Xx/TTMod-NarrativeExpansion"
 containsNsfwContent = false
 
@@ -30,6 +30,18 @@ target = "/"
 [[build.copy]]
 source = "./CHANGELOG.md"
 target = "/"
+
+[[build.copy]]
+source = "./Bundles/mech_companion"
+target = "/Bundles/"
+
+[[build.copy]]
+source = "./Bundles/robot_sphere"
+target = "/Bundles/"
+
+[[build.copy]]
+source = "./Bundles/robot_metallic"
+target = "/Bundles/"
 
 [publish]
 repository = "https://thunderstore.io"
